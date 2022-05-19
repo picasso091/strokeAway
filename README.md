@@ -1,0 +1,2 @@
+# strokeAway
+Minor Project
